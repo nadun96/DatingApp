@@ -5,3 +5,5 @@
 `dotnet sln add API`
 
 `dotnet sln list`
+
+`dotnet run`
