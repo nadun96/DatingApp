@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\CommonWealthUdemy\\CURRENT\\NET Angular Dating App\\DatingAppNET\\App\\API\\API.csproj": {}
+    "d:\\Projects\\CommonWealthUdemy\\CURRENT\\NET Angular Dating App\\DatingAppNET\\App\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\CommonWealthUdemy\\CURRENT\\NET Angular Dating App\\DatingAppNET\\App\\API\\API.csproj": {
+    "d:\\Projects\\CommonWealthUdemy\\CURRENT\\NET Angular Dating App\\DatingAppNET\\App\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\CommonWealthUdemy\\CURRENT\\NET Angular Dating App\\DatingAppNET\\App\\API\\API.csproj",
+        "projectUniqueName": "d:\\Projects\\CommonWealthUdemy\\CURRENT\\NET Angular Dating App\\DatingAppNET\\App\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Projects\\CommonWealthUdemy\\CURRENT\\NET Angular Dating App\\DatingAppNET\\App\\API\\API.csproj",
+        "projectPath": "d:\\Projects\\CommonWealthUdemy\\CURRENT\\NET Angular Dating App\\DatingAppNET\\App\\API\\API.csproj",
         "packagesPath": "C:\\Users\\udaraka\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\CommonWealthUdemy\\CURRENT\\NET Angular Dating App\\DatingAppNET\\App\\API\\obj\\",
+        "outputPath": "d:\\Projects\\CommonWealthUdemy\\CURRENT\\NET Angular Dating App\\DatingAppNET\\App\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\udaraka\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
